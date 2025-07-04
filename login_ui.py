@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-import login_dal  # import the login data access layer
+import login_dal
 
 def login():
     username = entry_username.get()
