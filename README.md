@@ -24,8 +24,10 @@ Password: barte123, artocilla123, uy123
 
 A success or failure message will pop up depending on your input.
 
+
 Note
 This project is for educational purposes only and is not intended for production use. For real applications, consider using secure authentication methods and storing credentials safely.
 
-Author
+
+Author:
 James Lorenz F. Barte
