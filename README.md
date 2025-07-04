@@ -1,3 +1,5 @@
+"This works in Windows"
+
 This is a simple Python application that demonstrates a basic login interface using `tkinter`. It includes a username and password field, and displays a success or error message upon login attempt.
 
 Prerequisites
