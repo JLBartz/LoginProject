@@ -2,6 +2,7 @@ This is a simple Python application that demonstrates a basic login interface us
 
 Prerequisites
 - Python 3.0 or higher
+
 Tkinter comes pre-installed with Python, so no additional installations are necessary.
 
 Installation
