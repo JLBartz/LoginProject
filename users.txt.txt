@@ -1,6 +1,0 @@
-username,password
-
-barte,barte123
-artocilla,artocilla123
-uy,uy123
-
