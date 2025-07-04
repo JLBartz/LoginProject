@@ -18,8 +18,8 @@ When prompted, enter the username and password.
 
 Default credentials:
 
-Username: admin
-Password: password
+Username: barte, artocilla, uy
+Password: barte123, artocilla123, uy123
 
 A success or failure message will pop up depending on your input.
 
