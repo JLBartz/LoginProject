@@ -1,5 +1,3 @@
-# login_dal.py
-
 def load_users(filename="users.txt"):
     users = {}
     try:
