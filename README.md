@@ -7,8 +7,8 @@ Tkinter comes pre-installed with Python, so no additional installations are nece
 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tkinter-login-ui.git
-   cd tkinter-login-ui
+   git clone https://github.com/JLBartz/LoginProject.git
+   cd foldername
 2. Run the script:
    python login_ui.py
 
