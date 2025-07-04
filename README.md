@@ -9,7 +9,7 @@ Installation
    ```bash
    git clone https://github.com/your-username/tkinter-login-ui.git
    cd tkinter-login-ui
-2. Run the script
+2. Run the script:
    python login_ui.py
 
 Usage
