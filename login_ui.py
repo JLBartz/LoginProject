@@ -1,11 +1,12 @@
 import tkinter as tk
 from tkinter import messagebox
+import login_dal  # import the login data access layer
 
 def login():
     username = entry_username.get()
     password = entry_password.get()
-    # Simple check (replace with real authentication as needed)
-    if username == "admin" and password == "password":
+    
+    if login_dal.validate_user(username, password):
         messagebox.showinfo("Login", "Login successful!")
     else:
         messagebox.showerror("Login", "Invalid username or password.")
